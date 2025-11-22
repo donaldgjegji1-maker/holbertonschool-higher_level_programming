@@ -1,2 +1,2 @@
--- 0-list_databases.sql
+-- List databases
 SHOW DATABASES;
